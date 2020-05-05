@@ -40,3 +40,5 @@ Desvantagens do modelo MVC:
 1. Necessita de um tempo maior para explorar e modelar o sistema;
 2. Requer mão-de-obra especializada;
 3. À medida que o tamanho e a complexidade do projeto crescem, a quantidade de arquivos e pastas continuará aumentando também. Os interesses de UI (interface do usuário) (modelos, exibições, controladores) se localizam em várias pastas, que não são formadas em grupos por ordem alfabética.
+
+#Fonte: https://pt.wikipedia.org/wiki/MVC
