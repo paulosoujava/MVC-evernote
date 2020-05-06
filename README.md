@@ -1,3 +1,10 @@
+# Curso :
+:: ARCH ANDROID ::
+ARQUITETURAS DE SOFTWARE MOBILE MODERNAS
+Domine os padrões e arquiteturas de software mobile modernas mais eficientes (e robustas) como MVP, MVVM, MVC, AAC, e até RxJava, Dagger, DataBinding, LiveData e muito mais.
+https://androiddeveloper.com.br/android/arch-direct?utm_campaign=AA&utm_source=blog&utm_medium=cursos-tab
+
+
 # MVC-evernote
 MVC é o acrônimo de Model-View-Controller (em português: Arquitetura Modelo-Visão-Controle - MVC) é um padrão de projeto de software,[1] ou padrão de arquitetura de software formulado na década de 1970,[2] focado no reuso de código e a separação de conceitos em três camadas interconectadas, onde a apresentação dos dados e interação dos usuários (front-end) são separados dos métodos que interagem com o banco de dados (back-end).[2]
 Normalmente usado para o desenvolvimento de interfaces de usuário que divide uma aplicação partes (camadas/componentes) interconectadas. Isto é feito para separar representações de informação internas dos modos como a informação é apresentada para e aceita pelo usuário,[3][4] levando ao desenvolvimento paralelo de maneira eficiente.
